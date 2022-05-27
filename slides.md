@@ -6,7 +6,7 @@ theme: solarized
 revealOptions:
     transition: 'fade'
 ---
-# Local
+# LocalEdition
 
 This will serve the presentation
 

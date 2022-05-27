@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fegm22/slidestemplate.git"
+    "url": "git+https://github.com/fegm22/hechagonal-architecture-presentation.git"
   },
   "author": "Martin Murphy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fegm22/slidestemplate/issues"
+    "url": "https://github.com/fegm22/hechagonal-architecture-presentation/issues"
   },
-  "homepage": "https://github.com/fegm22/slidestemplate#readme",
+  "homepage": "https://github.com/fegm22/hechagonal-architecture-presentation#readme",
   "devDependencies": {
     "reveal-md": "^0.4.2"
   }

@@ -16,7 +16,7 @@ whoami
 <!--s-->
 
 ```
-grep -i 'situation'
+grep -i 'situation' NewCompany
 ```
 
 ![Logos](pictures/hexagonal_presentation.002.png)
@@ -24,7 +24,7 @@ grep -i 'situation'
 <!--v-->
 
 ```
-grep -i 'situation'
+grep -i 'situation' NewProject
 ```
 
 ![Logos](pictures/hexagonal_presentation.003.png)
@@ -32,7 +32,7 @@ grep -i 'situation'
 <!--v-->
 
 ```
-grep -i 'situation'
+grep -i 'situation' FullyRemote
 ```
 
 ![Logos](pictures/hexagonal_presentation.004.png)
@@ -40,7 +40,7 @@ grep -i 'situation'
 <!--v-->
 
 ```
-grep -i 'situation'
+grep -i 'situation' NewComers
 ```
 
 ![Logos](pictures/hexagonal_presentation.005.png)
@@ -48,7 +48,7 @@ grep -i 'situation'
 <!--v-->
 
 ```
-grep -i 'situation'
+grep -i 'situation' LackInformation
 ```
 
 ![Logos](pictures/hexagonal_presentation.006.png)
@@ -56,7 +56,7 @@ grep -i 'situation'
 <!--v-->
 
 ```
-grep -i 'situation'
+grep -i 'situation' ExternalDependencies
 ```
 
 ![Logos](pictures/hexagonal_presentation.007.png)
@@ -64,7 +64,7 @@ grep -i 'situation'
 <!--v-->
 
 ```
-grep -i 'situation'
+grep -i 'situation' TightDeadline
 ```
 
 ![Logos](pictures/hexagonal_presentation.008.png)
@@ -73,7 +73,7 @@ grep -i 'situation'
 <!--s-->
 
 ```
-grep -i 'tasks'
+grep -i 'tasks' Migration
 ```
 
 ![Logos](pictures/hexagonal_presentation.009.png)
@@ -81,7 +81,7 @@ grep -i 'tasks'
 <!--v-->
 
 ```
-grep -i 'tasks'
+grep -i 'tasks' Redesign
 ```
 
 ![Logos](pictures/hexagonal_presentation.010.png)
@@ -89,7 +89,7 @@ grep -i 'tasks'
 <!--v-->
 
 ```
-grep -i 'tasks'
+grep -i 'tasks' StandardsCompliance
 ```
 
 ![Logos](pictures/hexagonal_presentation.011.png)
@@ -97,7 +97,7 @@ grep -i 'tasks'
 <!--v-->
 
 ```
-grep -i 'tasks'
+grep -i 'tasks' Code
 ```
 
 ![Logos](pictures/hexagonal_presentation.012.png)
@@ -106,7 +106,7 @@ grep -i 'tasks'
 <!--v-->
 
 ```
-grep -i 'tasks'
+grep -i 'tasks' Security
 ```
 
 ![Logos](pictures/hexagonal_presentation.013.png)
@@ -114,7 +114,7 @@ grep -i 'tasks'
 <!--v-->
 
 ```
-grep -i 'tasks'
+grep -i 'tasks' Infrastructure
 ```
 
 ![Logos](pictures/hexagonal_presentation.014.png)
@@ -122,7 +122,7 @@ grep -i 'tasks'
 <!--s-->
 
 ```
-grep -i 'actions'
+grep -i 'actions' HexagonalArchitecture
 ```
 
 ![Logos](pictures/hexagonal_presentation.015.png)
@@ -130,7 +130,7 @@ grep -i 'actions'
 <!--v-->
 
 ```
-grep -i 'actions'
+grep -i 'actions' SpringBoot
 ```
 
 ![Logos](pictures/hexagonal_presentation.016.png)
@@ -138,7 +138,7 @@ grep -i 'actions'
 <!--v-->
 
 ```
-grep -i 'actions'
+grep -i 'actions' Maven
 ```
 
 ![Logos](pictures/hexagonal_presentation.017.png)
@@ -146,7 +146,7 @@ grep -i 'actions'
 <!--v-->
 
 ```
-grep -i 'actions'
+grep -i 'actions' SpringMVC_Json
 ```
 
 ![Logos](pictures/hexagonal_presentation.018.png)
@@ -154,7 +154,7 @@ grep -i 'actions'
 <!--v-->
 
 ```
-grep -i 'actions'
+grep -i 'actions' Testcontainers
 ```
 
 ![Logos](pictures/hexagonal_presentation.019.png)
@@ -162,7 +162,7 @@ grep -i 'actions'
 <!--v-->
 
 ```
-grep -i 'actions'
+grep -i 'actions' Jenkins
 ```
 
 ![Logos](pictures/hexagonal_presentation.020.png)
@@ -170,7 +170,7 @@ grep -i 'actions'
 <!--v-->
 
 ```
-grep -i 'actions'
+grep -i 'actions' Prometheus
 ```
 
 ![Logos](pictures/hexagonal_presentation.021.png)
@@ -178,15 +178,15 @@ grep -i 'actions'
 <!--v-->
 
 ```
-grep -i 'actions'
+grep -i 'actions' Grafana
 ```
 
 ![Logos](pictures/hexagonal_presentation.022.png)
 
-<!--s-->
+<!--v-->
 
 ```
-grep -i 'results'
+grep -i 'actions' DockerCompose
 ```
 
 ![Logos](pictures/hexagonal_presentation.023.png)
@@ -194,15 +194,15 @@ grep -i 'results'
 <!--v-->
 
 ```
-grep -i 'results'
+grep -i 'actions' ChangeToJerseyMongoDB
 ```
 
 ![Logos](pictures/hexagonal_presentation.024.png)
 
-<!--v-->
+<!--s-->
 
 ```
-grep -i 'results'
+grep -i 'results' FastLearningCurve
 ```
 
 ![Logos](pictures/hexagonal_presentation.025.png)
@@ -210,7 +210,7 @@ grep -i 'results'
 <!--v-->
 
 ```
-grep -i 'results'
+grep -i 'results' DelayDecisions
 ```
 
 ![Logos](pictures/hexagonal_presentation.026.png)
@@ -218,7 +218,7 @@ grep -i 'results'
 <!--v-->
 
 ```
-grep -i 'results'
+grep -i 'results' ParallelWork
 ```
 
 ![Logos](pictures/hexagonal_presentation.027.png)
@@ -226,7 +226,7 @@ grep -i 'results'
 <!--v-->
 
 ```
-grep -i 'results'
+grep -i 'results' DeliveryOnTime
 ```
 
 ![Logos](pictures/hexagonal_presentation.028.png)
@@ -234,7 +234,7 @@ grep -i 'results'
 <!--v-->
 
 ```
-grep -i 'results'
+grep -i 'results' ComplianceApproved
 ```
 
 ![Logos](pictures/hexagonal_presentation.029.png)
@@ -242,7 +242,7 @@ grep -i 'results'
 <!--v-->
 
 ```
-grep -i 'results'
+grep -i 'results' SOLIDCleanCode
 ```
 
 ![Logos](pictures/hexagonal_presentation.030.png)
@@ -250,10 +250,34 @@ grep -i 'results'
 <!--v-->
 
 ```
-grep -i 'results'
+grep -i 'results' Flexible
 ```
 
 ![Logos](pictures/hexagonal_presentation.031.png)
+
+<!--v-->
+
+```
+grep -i 'results' Testing
+```
+
+![Logos](pictures/hexagonal_presentation.032.png)
+
+<!--v-->
+
+```
+grep -i 'results' Documentation
+```
+
+![Logos](pictures/hexagonal_presentation.033.png)
+
+<!--v-->
+
+```
+grep -i 'results' HappyEngineer
+```
+
+![Logos](pictures/hexagonal_presentation.034.png)
 
 
 

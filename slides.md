@@ -11,7 +11,7 @@ revealOptions:
 whoami
 ```
 
-![Logos](pictures/hexagonal_presentation.001.png)
+![](pictures/hexagonal_presentation.001.png)
 
 <!--s-->
 
@@ -19,7 +19,7 @@ whoami
 grep -i 'situation' NewCompany
 ```
 
-![Logos](pictures/hexagonal_presentation.002.png)
+![](pictures/hexagonal_presentation.002.png)
 
 <!--v-->
 
@@ -27,7 +27,7 @@ grep -i 'situation' NewCompany
 grep -i 'situation' NewProject
 ```
 
-![Logos](pictures/hexagonal_presentation.003.png)
+![](pictures/hexagonal_presentation.003.png)
 
 <!--v-->
 
@@ -35,7 +35,7 @@ grep -i 'situation' NewProject
 grep -i 'situation' FullyRemote
 ```
 
-![Logos](pictures/hexagonal_presentation.004.png)
+![](pictures/hexagonal_presentation.004.png)
 
 <!--v-->
 
@@ -43,7 +43,7 @@ grep -i 'situation' FullyRemote
 grep -i 'situation' NewComers
 ```
 
-![Logos](pictures/hexagonal_presentation.005.png)
+![](pictures/hexagonal_presentation.005.png)
 
 <!--v-->
 
@@ -51,7 +51,7 @@ grep -i 'situation' NewComers
 grep -i 'situation' LackInformation
 ```
 
-![Logos](pictures/hexagonal_presentation.006.png)
+![](pictures/hexagonal_presentation.006.png)
 
 <!--v-->
 
@@ -59,7 +59,7 @@ grep -i 'situation' LackInformation
 grep -i 'situation' ExternalDependencies
 ```
 
-![Logos](pictures/hexagonal_presentation.007.png)
+![](pictures/hexagonal_presentation.007.png)
 
 <!--v-->
 
@@ -67,8 +67,7 @@ grep -i 'situation' ExternalDependencies
 grep -i 'situation' TightDeadline
 ```
 
-![Logos](pictures/hexagonal_presentation.008.png)
-
+![](pictures/hexagonal_presentation.008.png)
 
 <!--s-->
 
@@ -76,7 +75,7 @@ grep -i 'situation' TightDeadline
 grep -i 'tasks' Migration
 ```
 
-![Logos](pictures/hexagonal_presentation.009.png)
+![](pictures/hexagonal_presentation.009.png)
 
 <!--v-->
 
@@ -84,7 +83,7 @@ grep -i 'tasks' Migration
 grep -i 'tasks' Redesign
 ```
 
-![Logos](pictures/hexagonal_presentation.010.png)
+![](pictures/hexagonal_presentation.010.png)
 
 <!--v-->
 
@@ -92,7 +91,7 @@ grep -i 'tasks' Redesign
 grep -i 'tasks' StandardsCompliance
 ```
 
-![Logos](pictures/hexagonal_presentation.011.png)
+![](pictures/hexagonal_presentation.011.png)
 
 <!--v-->
 
@@ -100,8 +99,7 @@ grep -i 'tasks' StandardsCompliance
 grep -i 'tasks' Code
 ```
 
-![Logos](pictures/hexagonal_presentation.012.png)
-
+![](pictures/hexagonal_presentation.012.png)
 
 <!--v-->
 
@@ -109,7 +107,7 @@ grep -i 'tasks' Code
 grep -i 'tasks' Security
 ```
 
-![Logos](pictures/hexagonal_presentation.013.png)
+![](pictures/hexagonal_presentation.013.png)
 
 <!--v-->
 
@@ -117,7 +115,7 @@ grep -i 'tasks' Security
 grep -i 'tasks' Infrastructure
 ```
 
-![Logos](pictures/hexagonal_presentation.014.png)
+![](pictures/hexagonal_presentation.014.png)
 
 <!--s-->
 
@@ -125,7 +123,7 @@ grep -i 'tasks' Infrastructure
 grep -i 'actions' HexagonalArchitecture
 ```
 
-![Logos](pictures/hexagonal_presentation.015.png)
+![](pictures/hexagonal_presentation.015.png)
 
 <!--v-->
 
@@ -133,7 +131,7 @@ grep -i 'actions' HexagonalArchitecture
 grep -i 'actions' SpringBoot
 ```
 
-![Logos](pictures/hexagonal_presentation.016.png)
+![](pictures/hexagonal_presentation.016.png)
 
 <!--v-->
 
@@ -141,7 +139,7 @@ grep -i 'actions' SpringBoot
 grep -i 'actions' Maven
 ```
 
-![Logos](pictures/hexagonal_presentation.017.png)
+![](pictures/hexagonal_presentation.017.png)
 
 <!--v-->
 
@@ -149,7 +147,7 @@ grep -i 'actions' Maven
 grep -i 'actions' SpringMVC_Json
 ```
 
-![Logos](pictures/hexagonal_presentation.018.png)
+![](pictures/hexagonal_presentation.018.png)
 
 <!--v-->
 
@@ -157,7 +155,7 @@ grep -i 'actions' SpringMVC_Json
 grep -i 'actions' Testcontainers
 ```
 
-![Logos](pictures/hexagonal_presentation.019.png)
+![](pictures/hexagonal_presentation.019.png)
 
 <!--v-->
 
@@ -165,7 +163,7 @@ grep -i 'actions' Testcontainers
 grep -i 'actions' Jenkins
 ```
 
-![Logos](pictures/hexagonal_presentation.020.png)
+![](pictures/hexagonal_presentation.020.png)
 
 <!--v-->
 
@@ -173,7 +171,7 @@ grep -i 'actions' Jenkins
 grep -i 'actions' Prometheus
 ```
 
-![Logos](pictures/hexagonal_presentation.021.png)
+![](pictures/hexagonal_presentation.021.png)
 
 <!--v-->
 
@@ -181,7 +179,7 @@ grep -i 'actions' Prometheus
 grep -i 'actions' Grafana
 ```
 
-![Logos](pictures/hexagonal_presentation.022.png)
+![](pictures/hexagonal_presentation.022.png)
 
 <!--v-->
 
@@ -189,7 +187,7 @@ grep -i 'actions' Grafana
 grep -i 'actions' DockerCompose
 ```
 
-![Logos](pictures/hexagonal_presentation.023.png)
+![](pictures/hexagonal_presentation.023.png)
 
 <!--v-->
 
@@ -197,7 +195,7 @@ grep -i 'actions' DockerCompose
 grep -i 'actions' ChangeToJerseyMongoDB
 ```
 
-![Logos](pictures/hexagonal_presentation.024.png)
+![](pictures/hexagonal_presentation.024.png)
 
 <!--s-->
 
@@ -205,7 +203,7 @@ grep -i 'actions' ChangeToJerseyMongoDB
 grep -i 'results' FastLearningCurve
 ```
 
-![Logos](pictures/hexagonal_presentation.025.png)
+![](pictures/hexagonal_presentation.025.png)
 
 <!--v-->
 
@@ -213,7 +211,7 @@ grep -i 'results' FastLearningCurve
 grep -i 'results' DelayDecisions
 ```
 
-![Logos](pictures/hexagonal_presentation.026.png)
+![](pictures/hexagonal_presentation.026.png)
 
 <!--v-->
 
@@ -221,7 +219,7 @@ grep -i 'results' DelayDecisions
 grep -i 'results' ParallelWork
 ```
 
-![Logos](pictures/hexagonal_presentation.027.png)
+![](pictures/hexagonal_presentation.027.png)
 
 <!--v-->
 
@@ -229,7 +227,7 @@ grep -i 'results' ParallelWork
 grep -i 'results' DeliveryOnTime
 ```
 
-![Logos](pictures/hexagonal_presentation.028.png)
+![](pictures/hexagonal_presentation.028.png)
 
 <!--v-->
 
@@ -237,7 +235,7 @@ grep -i 'results' DeliveryOnTime
 grep -i 'results' ComplianceApproved
 ```
 
-![Logos](pictures/hexagonal_presentation.029.png)
+![](pictures/hexagonal_presentation.029.png)
 
 <!--v-->
 
@@ -245,7 +243,7 @@ grep -i 'results' ComplianceApproved
 grep -i 'results' SOLIDCleanCode
 ```
 
-![Logos](pictures/hexagonal_presentation.030.png)
+![](pictures/hexagonal_presentation.030.png)
 
 <!--v-->
 
@@ -253,7 +251,7 @@ grep -i 'results' SOLIDCleanCode
 grep -i 'results' Flexible
 ```
 
-![Logos](pictures/hexagonal_presentation.031.png)
+![](pictures/hexagonal_presentation.031.png)
 
 <!--v-->
 
@@ -261,7 +259,7 @@ grep -i 'results' Flexible
 grep -i 'results' Testing
 ```
 
-![Logos](pictures/hexagonal_presentation.032.png)
+![](pictures/hexagonal_presentation.032.png)
 
 <!--v-->
 
@@ -269,7 +267,7 @@ grep -i 'results' Testing
 grep -i 'results' Documentation
 ```
 
-![Logos](pictures/hexagonal_presentation.033.png)
+![](pictures/hexagonal_presentation.033.png)
 
 <!--v-->
 
@@ -277,7 +275,7 @@ grep -i 'results' Documentation
 grep -i 'results' HappyEngineer
 ```
 
-![Logos](pictures/hexagonal_presentation.034.png)
+![](pictures/hexagonal_presentation.034.png)
 
 <!--s-->
 
@@ -285,7 +283,8 @@ grep -i 'results' HappyEngineer
 git clone https://github.com/fegm22/hexagonal-architecture.git
 ```
 
-![Logos](pictures/hexagonal_presentation.035.png)
+![](pictures/hexagonal_presentation.035.png)
+
 
 
 

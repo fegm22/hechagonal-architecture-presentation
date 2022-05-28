@@ -1,5 +1,5 @@
 {
-  "name": "Hexagonal Architecture",
+  "name": "hexagonal_architecture",
   "version": "1.0.0",
   "description": "Presentation: Hexagonal Architecture",
   "main": "index.js",
